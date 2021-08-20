@@ -10,7 +10,7 @@
                         {
                             "name": "AD",
                             "description": "Accuracy Difference (AD)",
-                            "value": -0.017711586081682884
+                            "value": -0.017752887196897604
                         },
                         {
                             "name": "CDDPL",
@@ -21,32 +21,32 @@
                         {
                             "name": "DAR",
                             "description": "Difference in Acceptance Rates (DAR)",
-                            "value": -0.017711586081682884
+                            "value": -0.01776369779066167
                         },
                         {
                             "name": "DCA",
                             "description": "Difference in Conditional Acceptance (DCA)",
-                            "value": -0.017711586081682884
+                            "value": -0.01776369779066167
                         },
                         {
                             "name": "DCR",
                             "description": "Difference in Conditional Rejection (DCR)",
-                            "value": 0
+                            "value": "Infinity"
                         },
                         {
                             "name": "DI",
                             "description": "Disparate Impact (DI)",
-                            "value": 1.0
+                            "value": 1.0003588087549335
                         },
                         {
                             "name": "DPPL",
                             "description": "Difference in Positive Proportions in Predicted Labels (DPPL)",
-                            "value": 0.0
+                            "value": -0.00035868005738881603
                         },
                         {
                             "name": "DRR",
                             "description": "Difference in Rejection Rates (DRR)",
-                            "value": 0.0
+                            "value": -1.0
                         },
                         {
                             "name": "FT",
@@ -85,37 +85,37 @@
                         {
                             "name": "CI",
                             "description": "Class Imbalance (CI)",
-                            "value": 0.398
+                            "value": 0.394
                         },
                         {
                             "name": "DPL",
                             "description": "Difference in Positive Proportions in Labels (DPL)",
-                            "value": -0.017711586081682884
+                            "value": -0.01811156725428642
                         },
                         {
                             "name": "JS",
                             "description": "Jensen-Shannon Divergence (JS)",
-                            "value": 0.0020437563177422677
+                            "value": 0.002016528601355723
                         },
                         {
                             "name": "KL",
                             "description": "Kullback-Liebler Divergence (KL)",
-                            "value": 0.008323488560379871
+                            "value": 0.009541760304808484
                         },
                         {
                             "name": "KS",
                             "description": "Kolmogorov-Smirnov Distance (KS)",
-                            "value": 0.017711586081682898
+                            "value": 0.01811156725428642
                         },
                         {
                             "name": "LP",
                             "description": "L-p Norm (LP)",
-                            "value": 0.025047965247854492
+                            "value": 0.025613624046844283
                         },
                         {
                             "name": "TVD",
                             "description": "Total Variation Distance (TVD)",
-                            "value": 0.01771158608168289
+                            "value": 0.018111567254286413
                         }
                     ]
                 }

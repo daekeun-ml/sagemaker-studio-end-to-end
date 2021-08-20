@@ -1,1 +1,1 @@
-{"classification_metrics": {"validation:auc": {"value": 0.8189532160758972}, "train:auc": {"value": 0.9342334270477295}}}
+{"binary_classification_metrics": {"validation:auc": {"value": 0.8289480209350586, "standard_deviation": "NaN"}, "train:auc": {"value": 0.9550268054008484, "standard_deviation": "NaN"}}}
